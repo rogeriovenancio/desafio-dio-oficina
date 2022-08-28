@@ -17,3 +17,5 @@ Os mecânicos possuem código, nome, endereço e especialidade
 Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 Os mecânicos possuem código, nome, endereço e especialidade
 Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
+
+😀
